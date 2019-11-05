@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="task_title">Fragment Title</string>
+    <string name="task_description">This is the description of the Fragment</string>
+    <string name="add_task">ADD TASK</string>
+    <string-array name="images">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+    </string-array>
+</resources>
